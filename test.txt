@@ -1,0 +1,13 @@
+cat
+dog
+cat
+fish
+cat
+dog
+horse
+tamere
+dog
+dog
+dog
+dog
+fish
